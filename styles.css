@@ -12,7 +12,7 @@ body {
   padding: 0 20px;
 }
 
-/* заголов */
+
 h1, h2 {
   font-family: 'Playfair Display', serif;
   margin-bottom: 15px;
@@ -100,13 +100,13 @@ figcaption {
   text-align: center;
 }
 
-/*Спис*/
+
 ul, ol {
   margin-left: 25px;
   margin-bottom: 15px;
 }
 
-/*линки */
+
 .link-img {
   max-width: 150px;
   border-radius: 12px;
